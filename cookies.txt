@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.mcadventuretime.com	TRUE	/	FALSE	1999999999	__cfduid	dce9f8bc9d7876e7c8cec87d6fb3745111585295453
+www.mcadventuretime.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.muratkim.com	TRUE	/	FALSE	1999999999	__cfduid	d6a9f932cb641bbb81bd6b6d2cca3e2eb1585295478
+www.muratkim.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d6da9d208de2a3e87f50bc12cff9629c41585295484
+ajax.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.cloudflareinsights.com	TRUE	/	FALSE	1999999999	__cfduid	d82e9e35897ee97ac4307b522c231c7521585295485
+static.cloudflareinsights.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
